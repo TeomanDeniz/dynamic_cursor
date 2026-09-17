@@ -1,6 +1,8 @@
 # Dynamic Swing Cursor
 
-## [Live Demo!](https://teomandeniz.github.io/dynamic_cursor/)
+<p align="center">
+ <a href="https://teomandeniz.github.io/dynamic_cursor/"><img src="https://img.shields.io/badge/Live_Demo-Open-E84A8C?style=for-the-badge" alt="Live Demo"/></a>
+</p>
 
 Replace the system cursor with your own images, driven by your normal CSS `cursor:` rules, with optional swing physics.
 
