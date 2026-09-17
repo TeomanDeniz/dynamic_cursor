@@ -1,6 +1,6 @@
 # Dynamic Swing Cursor
 
-## [Live Demo!](https://teomandeniz.github.io/SELECTION_JS/)
+## [Live Demo!](https://teomandeniz.github.io/DYNAMIC_SWING_HTML/)
 
 Replace the system cursor with your own images, driven by your normal CSS `cursor:` rules, with optional swing physics.
 
