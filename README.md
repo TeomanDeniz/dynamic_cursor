@@ -1,5 +1,7 @@
 # Dynamic Swing Cursor
 
+## [Live Demo!](https://teomandeniz.github.io/SELECTION_JS/)
+
 Replace the system cursor with your own images, driven by your normal CSS `cursor:` rules, with optional swing physics.
 
 <p align="center">
