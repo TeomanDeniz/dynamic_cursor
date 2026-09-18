@@ -1,0 +1,23 @@
+{
+	"name": "dynamic_cursor",
+	"version": "1.0.0",
+	"description": "Dynamic crusor and movement addon.",
+	"author": "Teoman Deniz",
+	"license": "MIT",
+	"homepage": "https://teomandeniz.github.io/dynamic_cursor/",
+	"main": "dynamic_cursor.js",
+	"module": "dynamic_cursor.mjs",
+	"exports":
+	{
+		".":
+		{
+			"import": "./dynamic_cursor.mjs",
+			"require": "./dynamic_cursor.js",
+			"default": "./dynamic_cursor.js"
+		}
+	},
+	"repository": {"type": "git", "url": "git+https://github.com/TeomanDeniz/dynamic_cursor.git"},
+	"files": ["dynamic_cursor.js", "dynamic_cursor.mjs", "dynamic_cursor.min.js", "dynamic_cursor.min.js.map", "README.md", "LICENSE"],
+	"keywords": ["physical", "animaton", "dynamic", "cursor"],
+	"sideEffects": true
+}
